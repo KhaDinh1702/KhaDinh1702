@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/1200x/0c/a5/32/0ca532a90fee8ebac8e3fa7a4084fe8a.jpg" alt="Dark profile banner" />
+<img width="50%" src="https://i.pinimg.com/1200x/0c/a5/32/0ca532a90fee8ebac8e3fa7a4084fe8a.jpg" alt="Dark profile banner" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&duration=2600&pause=900&color=C83A3A&center=true&vCenter=true&width=780&lines=Frontend+developer+wandering+through+the+fog;Building+clean+and+responsive+web+interfaces;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js;Deploy%2C+payments%2C+databases%2C+CI%2FCD" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=24&duration=2600&pause=900&color=C83A3A&center=true&vCenter=true&width=780&lines=Frontend+developer;Building+clean+and+responsive+web+interfaces;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js;Deploy%2C+payments%2C+databases%2C+CI%2FCD" alt="Typing animation" />
 
 <h1>KhaDinh1702</h1>
 <h3>Frontend Developer | Full-stack Learner</h3>
@@ -28,14 +28,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">What I Build</h3>
-      <p align="center">
+      <p align="left">
         Responsive websites, landing pages, dashboards, and small full-stack apps
         with clean layouts and practical user flows.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">What I Am Learning</h3>
-      <p align="center">
+      <p align="left">
         Backend APIs, MongoDB Atlas, payment integrations, deployment pipelines,
         GitHub Actions, and production-ready project structure.
       </p>
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<div align="center">
+<div align="left">
 
 ![Focus](https://img.shields.io/badge/Focus-Clean_UI-260505?style=for-the-badge&logoColor=ffffff)
 ![Learning](https://img.shields.io/badge/Learning-Full_stack-260505?style=for-the-badge&logoColor=ffffff)
@@ -53,7 +53,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Core
 
@@ -96,21 +96,21 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Frontend Projects</h3>
-      <p align="center">
+      <p align="left">
         Responsive interfaces, polished layouts, reusable components, and smooth
         user experiences.
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Full-stack Apps</h3>
-      <p align="center">
+      <p align="left">
         Node.js APIs, MongoDB Atlas databases, authentication flows, and practical
         backend structure.
       </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Deploy Workflow</h3>
-      <p align="center">
+      <p align="left">
         Render, Vercel, Cloudflare, payment integrations, GitHub Actions, and
         CI/CD practice.
       </p>
@@ -120,21 +120,21 @@
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaDinh1702&show_icons=true&hide_border=true&title_color=ff4d4d&icon_color=b91c1c&text_color=e7dede&bg_color=0d0303" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaDinh1702&layout=compact&hide_border=true&title_color=ff4d4d&text_color=e7dede&bg_color=0d0303" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhaDinh1702&amp;show_icons=true&amp;hide_border=true&amp;title_color=ff4d4d&amp;icon_color=b91c1c&amp;text_color=e7dede&amp;bg_color=0d0303&amp;rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaDinh1702&amp;layout=compact&amp;hide_border=true&amp;title_color=ff4d4d&amp;text_color=e7dede&amp;bg_color=0d0303&amp;langs_count=8" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=KhaDinh1702&theme=dark&hide_border=true&background=0D0303&ring=FF4D4D&fire=C83A3A&currStreakLabel=FF4D4D" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=KhaDinh1702&amp;hide_border=true&amp;background=0D0303&amp;ring=FF4D4D&amp;fire=C83A3A&amp;currStreakLabel=FF4D4D&amp;sideNums=E7DEDE&amp;currStreakNum=E7DEDE&amp;dates=E7DEDE&amp;sideLabels=FF4D4D" alt="GitHub streak" />
 
 </div>
 
 ## Contribution Snake
 
-<div align="center">
+<div align="left">
 
 ![Snake animation](https://raw.githubusercontent.com/KhaDinh1702/KhaDinh1702/output/github-contribution-grid-snake-dark.svg)
 
@@ -142,7 +142,7 @@
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KhaDinh1702-080202?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/KhaDinh1702)
 ![Open to Learn](https://img.shields.io/badge/Open_to-Learn_%26_Build-260505?style=for-the-badge&logoColor=ffffff)
