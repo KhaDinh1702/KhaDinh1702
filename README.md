@@ -1,7 +1,7 @@
 Hi, I'm Kha Dinh
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=KhaDinh1702&color=blue&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/KhaDinh1702?label=Followers&style=flat&color=58A6FF" alt="GitHub followers" /> </p> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
+<p> <img src="https://i.pinimg.com/1200x/5e/c0/a7/5ec0a7e88251f0d6d211ee605970ea23.jpg" />
 About Me
 I am learning and building with JavaScript, React, HTML, and CSS.
 I enjoy making web projects that look good and feel easy to use.
@@ -10,12 +10,6 @@ Tech Stack
 
 
 Featured Projects
-SWP391-SE1863-SU25
-SDN-Project-SPRING2026
-ReactComponents
-WebSite4Cat
-GitHub Stats
-
 
 Contribution Streak
 
