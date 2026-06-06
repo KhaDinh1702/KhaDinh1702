@@ -17,7 +17,7 @@ Contribution Streak
 Connect
 
 
-
+![Snake animation](https://raw.githubusercontent.com/KhaDinh1702/KhaDinh1702/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **KhaDinh1702/KhaDinh1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
