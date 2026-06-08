@@ -91,3 +91,11 @@
 ![Snake animation](https://raw.githubusercontent.com/KhaDinh1702/KhaDinh1702/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+## Space Shooter
+
+<div align="left">
+
+<img src="./game.gif" alt="Space Shooter Game" />
+
+</div>
