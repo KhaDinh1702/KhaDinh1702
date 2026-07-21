@@ -2,7 +2,7 @@
   <img src="./profile-grid.png" alt="Profile Banner" width="100%" />
 </div>
 
-<div align="center">
+<div align="left">
   <h1>KhaDinh1702</h1>
   <h3>Frontend Developer | Full-stack Learner</h3>
   <p>
