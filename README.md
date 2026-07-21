@@ -13,7 +13,7 @@
 
 ---
 
-### Tech Stack
+### Languages and Tools
 
 <table>
   <tr>
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-### Languages and Tools
+### Tech Stack
 
 <table>
   <tr>
@@ -75,7 +75,7 @@
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=KhaDinh1702&amp;hide_border=true&amp;background=111111&amp;ring=FFFFFF&amp;fire=FFFFFF&amp;currStreakLabel=FFFFFF&amp;sideNums=E7DEDE&amp;currStreakNum=E7DEDE&amp;dates=E7DEDE&amp;sideLabels=FFFFFF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=KhaDinh1702&hide_border=true&background=111111&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FFFFFF" alt="GitHub streak" />
 
 </div>
 
