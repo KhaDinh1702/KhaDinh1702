@@ -1,19 +1,14 @@
-<div align="left">
+<div align="center">
+  <img src="./profile-grid.png" alt="Profile Banner" width="100%" />
+</div>
 
-<img align="left" width="438" src="./profile-grid.png" alt="Profile image grid" />
-
-<h1>  KhaDinh1702</h1>
-<h3>  Frontend Developer | Full-stack Learner</h3>
-
-<p>
-    I build clean, responsive web interfaces with a focus on aesthetic UI,
-  readable code, and real deployment workflows.
-  <br />
+<div align="center">
+  <h1>KhaDinh1702</h1>
+  <h3>Frontend Developer | Full-stack Learner</h3>
+  <p>
+    I build clean, responsive web interfaces with a focus on aesthetic UI, readable code, and real deployment workflows.<br />
     Currently learning deeper full-stack development.
-</p>
-
-<br clear="left" />
-
+  </p>
 </div>
 
 ---
@@ -52,11 +47,11 @@
   </tr>
   <tr>
     <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/111111/46E3B7?text=R" alt="Render" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/260505/FFFFFF?text=Rx" alt="Reactive" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/260505/FFFFFF?text=Pay" alt="PayOS" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/260505/FFFFFF?text=VN" alt="VNPay" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/080202/00ED64?text=Atlas" alt="MongoDB Atlas" /></td>
+    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/46E3B7?text=R" alt="Render" /></td>
+    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=Rx" alt="Reactive" /></td>
+    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=Pay" alt="PayOS" /></td>
+    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=VN" alt="VNPay" /></td>
+    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/00ED64?text=Atlas" alt="MongoDB Atlas" /></td>
   </tr>
 </table>
 
@@ -80,7 +75,7 @@
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=KhaDinh1702&amp;hide_border=true&amp;background=0D0303&amp;ring=FF4D4D&amp;fire=C83A3A&amp;currStreakLabel=FF4D4D&amp;sideNums=E7DEDE&amp;currStreakNum=E7DEDE&amp;dates=E7DEDE&amp;sideLabels=FF4D4D" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=KhaDinh1702&amp;hide_border=true&amp;background=111111&amp;ring=FFFFFF&amp;fire=FFFFFF&amp;currStreakLabel=FFFFFF&amp;sideNums=E7DEDE&amp;currStreakNum=E7DEDE&amp;dates=E7DEDE&amp;sideLabels=FFFFFF" alt="GitHub streak" />
 
 </div>
 
