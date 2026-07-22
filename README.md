@@ -1,59 +1,53 @@
-<div align="center">
+	<div align="center">
   <img src="./profile-grid.png" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="left">
   <h1>KhaDinh1702</h1>
-  <h3>Frontend Developer | Full-stack Learner</h3>
+  <h3>NodeJS Developer | Full-stack Learner</h3>
   <p>
-    I build clean, responsive web interfaces with a focus on aesthetic UI, readable code, and real deployment workflows.<br />
-    Currently learning deeper full-stack development.
+    
   </p>
 </div>
 
 ---
 
-### Languages and Tools
+### Languages
 
-<table>
-  <tr>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=py" alt="Python" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=dart" alt="Dart" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=express" alt="Express.js" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
 ### Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=npm" alt="npm" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="70"><img width="48" height="48" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/46E3B7?text=R" alt="Render" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=Rx" alt="Reactive" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=Pay" alt="PayOS" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/FFFFFF?text=VN" alt="VNPay" /></td>
-    <td align="center" width="70"><img width="48" height="48" src="https://placehold.co/48x48/242938/00ED64?text=Atlas" alt="MongoDB Atlas" /></td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Languages / Frameworks -->
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <br />
+  <!-- Database & Cloud -->
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <br />
+  <!-- Tools & Payments -->
+  <img src="https://img.shields.io/badge/npm-111111?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PayOS-111111?style=flat-square&logoColor=white" alt="PayOS" />
+  <img src="https://img.shields.io/badge/VNPay-111111?style=flat-square&logoColor=white" alt="VNPay" />
+</p>
 
 ## Featured Projects
 
@@ -75,7 +69,7 @@
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=KhaDinh1702&hide_border=true&background=111111&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FFFFFF" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=KhaDinh1702&hide_border=true&background=transparent&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=E7DEDE&currStreakNum=E7DEDE&dates=E7DEDE&sideLabels=FFFFFF" alt="GitHub streak" />
 
 </div>
 
@@ -84,13 +78,5 @@
 <div align="left">
 
 ![Snake animation](https://raw.githubusercontent.com/KhaDinh1702/KhaDinh1702/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## Space Shooter
-
-<div align="left">
-
-<img src="./game.gif" alt="Space Shooter Game" />
 
 </div>
