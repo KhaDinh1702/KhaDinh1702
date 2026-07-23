@@ -38,15 +38,11 @@
   <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Render-111111?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <br />
-  <!-- Tools & Payments -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/npm-111111?style=flat-square&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PayOS-111111?style=flat-square&logoColor=white" alt="PayOS" />
-  <img src="https://img.shields.io/badge/VNPay-111111?style=flat-square&logoColor=white" alt="VNPay" />
 </p>
 
 ## Featured Projects
