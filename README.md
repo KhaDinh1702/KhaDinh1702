@@ -1,4 +1,3 @@
-	<div align="center">
   <img src="./profile-grid.png" alt="Profile Banner" width="100%" />
 </div>
 
